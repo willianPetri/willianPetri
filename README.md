@@ -2,9 +2,9 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/willian-petri-84a935135)](https://www.linkedin.com/in/willian-petri-84a935135)
 
-👨‍💻Fullstack developer
-👨‍💻NodeJs, ReactJs, React Native, Typescript.
-In my free time i like to watch movies (🎞️) and series (📺), to listen to music (🎵) and to workout🏋️🏃.
+- 👨‍💻Fullstack developer
+- 👨‍💻NodeJs, ReactJs, React Native, Typescript.
+- In my free time i like to watch movies (🎞️) and series (📺), to listen to music (🎵) and to workout🏋️🏃.
 
 
 
