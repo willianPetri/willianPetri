@@ -6,6 +6,8 @@
 - 🖥️ NodeJs, ReactJs, React Native, Typescript.
 - In my free time i like to watch movies (🎞️) and series (📺), to listen to music (🎵) and to workout🏋️🏃.
 
+[![Spotify](https://spotify-linked.vercel.app//api/spotify)](https://open.spotify.com/user/will_petri)
+
 
 
 <!--
