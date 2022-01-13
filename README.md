@@ -4,6 +4,7 @@
 
 - 👨‍💻 Fullstack developer
 - 🖥️ NodeJs, ReactJs, React Native, Typescript.
+- Working at Grupo Card 🚀
 - In my free time i like to watch movies (🎞️) and series (📺), to listen to music (🎵) and to workout🏋️🏃.
 - My Portfolio: https://willianpetri.netlify.app/
 
